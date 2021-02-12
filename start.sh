@@ -1,11 +1,5 @@
 #!/bin/bash
 
-if [[ "x$PROD" == "x" ]]; then 
-	echo "This script is for starting in production."
-	echo "Use"
-	echo "   mix phx.server"
-	exit
-fi
 
 # TODO: Enable this script by removing the above.
 

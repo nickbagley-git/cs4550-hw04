@@ -1,0 +1,45 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+
+Nick Bagley
+
+2. What hostname did you deploy your app to?
+
+hw04.bagleysite.com
+
+3. What's the URL of your git for this assignment?
+
+https://github.com/nickbagley-git/cs4550-hw04
+
+4. How much of the functionality did you complete?
+
+All functionality
+
+5. Did you successfully deploy? If not, what's broken?
+
+Yes but it took forever to figure out
+
+6. How comfortable do you feel with Elixir now?
+
+Fairly comfortable with the coding syntax but still not 
+comfortable at all with the server side stuff.
+
+7. Which parts of this assignment did you have trouble with, if any?
+
+On the coding side I had the most trouble getting the calculator to 
+work because it has been a while since i programmed functionally and 
+had to call recursive functions. Overall the most difficult part was 
+getting the site to remain online when I exit the deploy script.
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
